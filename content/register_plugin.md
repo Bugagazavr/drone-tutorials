@@ -4,6 +4,7 @@ title: How to register your plugin
 tags: [ "plugins" ]
 labels: [ "tutorial" ]
 author: bradrydzewski
+slug: register-your-plugin
 ---
 
 The plugin index is a [hugo](https://github.com/spf13/hugo) website that is statically generated. This means registering your plugin simply requires adding your documentation to the [plugin index](http://plugins.drone.io) repository. Fork the repository to get started.
